@@ -1,8 +1,6 @@
-# FinTrack - Finance Dashboard UI
+ Finance Dashboard UI
 
 A modern, responsive personal finance dashboard built with React and Vite. Track your income, expenses, and savings with interactive charts and real-time data visualization.
-
-![FinTrack Dashboard](./src/assets/dashboard-preview.png)
 
 ## ✨ Features
 
